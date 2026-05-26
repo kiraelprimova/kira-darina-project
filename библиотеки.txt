@@ -1,0 +1,16 @@
+pip install fastapi
+pip install uvicorn
+pip install streamlit
+pip install requests
+pip install scikit-learn
+pip install pandas
+pip install nltk
+pip install pymorphy3
+pip install numpy
+pip install scipy
+pip install pydantic
+pip install joblib
+
+
+## uvicorn main:app --reload
+## streamlit run app_streamlit.py
